@@ -1,5 +1,5 @@
 # IMDB-Clone
-# IMDB-Clone is a movie database designed using JS,ReactJs,Tailwind CSS and powered by API's from TMDB.
+# IMDB-Clone is a movie database designed using Java,ReactJs,Tailwind CSS and powered by API's from TMDB.
 > * Designed and developed a comprehensive web application an online database for movies using **Java**, **React**, **Tailwind CSS** and powered by the TMDB API's.
 > * Created personalized features such as Watchlists and viewing history, that can lead to a 30% improvement in user retention.
 > * Improvements for future that includes integrating APIs for real-time movie data updates, aiming to further enhance the accuracy and completeness of the movie database.
